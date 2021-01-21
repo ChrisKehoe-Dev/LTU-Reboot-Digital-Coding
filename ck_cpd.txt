@@ -1,6 +1,6 @@
 CPD - Continuing Professional Development
 
-
+Module 1.1
 Date of CPD activity
 12/01/2021
 
@@ -20,7 +20,7 @@ What did I find hard?
 
 not completely understood the whole process regarding dev ops
 
-
+Module 1.2
 Date of CPD activity
 14/01/2021
 
@@ -41,6 +41,7 @@ What did I find hard?
 
 Generally a better understanding than after the first session, however im sure when we get to lower level items I will have more questions and challenges
 
+Module 1.3
 Date of CPD activity
 19/01/2021
 
@@ -63,3 +64,25 @@ A lot of similarities between this and TFS (which i use integrated into my work 
 Additional Takeaway
 In the long run this may be a better solution than TFS with the correct integration. with practice this course may help in that too.
 
+Module 1.4
+Date of CPD activity
+21/01/2021
+
+CPD activity
+Version Control
+
+What have I learnt?
+
+understanding branches, origin, upstream and downstream
+working in isolation and as a collabaration on a project
+
+
+How did I use this in practice?
+updated this CPD document and pushed it to the server.
+
+What did I find hard?
+
+A lot of similarities between this and TFS (which i use integrated into my work SQL server environment).
+
+Additional Takeaway
+In the long run this may be a better solution than TFS with the correct integration. with practice this course may help in that too.
