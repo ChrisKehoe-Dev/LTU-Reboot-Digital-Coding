@@ -1,0 +1,13 @@
+span {
+    color: green;
+  }
+
+#spanId {
+    background-color: green;
+    color: yellow;
+  }
+
+.spanclass {
+    background-color: black;
+    color: white;
+  }
