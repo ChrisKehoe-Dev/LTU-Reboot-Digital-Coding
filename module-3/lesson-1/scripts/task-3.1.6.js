@@ -5,7 +5,6 @@ var $mealNet = $mealTotal / $taxCalc
 $mealNet = $mealNet.toFixed(2) 
 var $taxAmount = $mealTotal - $mealNet
 $taxAmount = $taxAmount.toFixed(2) 
-var $TAB = "\t";
 
 //alert($mealNet)
 
