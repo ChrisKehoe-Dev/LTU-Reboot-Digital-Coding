@@ -9,14 +9,14 @@ let recipe = {
     },
     listIngredients : function() {
         console.log(`Ingredients List for ${recipe.recipeTitle} to serve ${recipe.servings} people`)
-        for (ingred=0;ingred < recipe.ingredients.length; ingred++) {
-            console.log(recipe.ingredients[ingred])
+        for (ingredIndex=0;ingredIndex < recipe.ingredients.length; ingredIndex++) {
+            console.log(recipe.ingredients[ingredIndex])
         }
     },
     listDirections : function() {
         console.log(`Directions to cook ${recipe.recipeTitle}`)
-        for (dir=0;dir < recipe.directions.length; dir++) {
-            console.log(`${dir+1}. ${recipe.directions[dir]}`)
+        for (dirIndex=0;dirIndex < recipe.directions.length; dirIndex++) {
+            console.log(`${dirIndex+1}. ${recipe.directions[dirIndex]}`)
         }
     }
 }
