@@ -1,7 +1,7 @@
 function scFoodDiscount ( arr ) {
     var totalPrice = 0;
     var currPrice = 0;
-    var typeDiscounted = "Food";
+    var typeDiscounted = "home";
     var foodDisc = 0;
     var currFoodDisc = 0;
     var totalFoodDisc = 0;
@@ -11,7 +11,7 @@ function scFoodDiscount ( arr ) {
         currPrice = arr[shopIndex].quantity * arr[shopIndex].price
         //switch statement to identify food discount
         switch(arr[shopIndex].type){
-            case "food" :
+            case typeDiscounted :
                 foodDisc = 0.2
                 break;
             default:
